@@ -15,6 +15,8 @@ namespace Fruit
         watermellon,
         lemon,
         lime,
+        strawberry,
+        blueberry,
     }
     class Program
     {
