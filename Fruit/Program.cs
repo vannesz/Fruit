@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Fruit
 {
-
     public enum Fruit
     {
         apple,
